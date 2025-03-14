@@ -14,9 +14,6 @@ A Python-based Anime Recommendation System that fetches data from MyAnimeList, c
 - [Implementation Details](#implementation-details)
 - [Future Work](#future-work)
 - [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
 ---
 
 ## Overview
@@ -198,16 +195,3 @@ Contributions are welcome! Please follow these guidelines:
 - Follow the existing code style and include appropriate tests.
 
 ---
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
-
-## Contact
-
-For questions or feedback, please reach out via:
-
-- **GitHub:** [WPitera](https://github.com/WPitera)
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
