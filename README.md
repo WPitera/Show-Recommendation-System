@@ -8,6 +8,7 @@ A Python-based Anime Recommendation System that fetches data from MyAnimeList, c
 
 - [Overview](#overview)
 - [Features](#features)
+- [Content](#Content)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Data and APIs](#data-and-apis)
@@ -44,6 +45,12 @@ This project is an end-to-end Anime Recommendation System that leverages data fr
 
 - **Interactive Interface:**  
   Built with Gradio, enabling users to add anime to a personal list, clear the list, and fetch recommendations with the click of a button.
+
+---
+## Content
+
+
+words
 
 ---
 
