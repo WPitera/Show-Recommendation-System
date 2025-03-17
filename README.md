@@ -3,8 +3,8 @@
 A Python-based Anime Recommendation System that fetches data from MyAnimeList, cleans and processes anime titles using a language model API, computes similarity scores based on combined textual features, and provides interactive recommendations via a Gradio interface.
 
 ![Image 1](/Image/image1.png "image1")
-
 Made with DALL-E
+
 ---
 
 ## Table of Contents
