@@ -4,7 +4,7 @@ A Python-based Anime Recommendation System that fetches data from MyAnimeList, c
 
 ![Image 1](/Image/image1.png "image1")
 
-
+Made with DALL-E
 ---
 
 ## Table of Contents
