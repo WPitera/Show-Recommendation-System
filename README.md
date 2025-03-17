@@ -197,7 +197,7 @@ words
 - **Error Handling and Logging:**  
   Improve error management for API calls and provide detailed logging for debugging.
   
-- **Better Method for Gemini**
+- **Gemini:**
   Find an alternative method for using Gemini that does not require premium key or manual intervention
   
 ---
