@@ -45,6 +45,13 @@ This project is an end-to-end Anime Recommendation System that leverages data fr
 
 - **Interactive Interface:**  
   Built with Gradio, enabling users to add anime to a personal list, clear the list, and fetch recommendations with the click of a button.
+  
+- **Cosine Similarity**
+  In an inner product space containing two non-zero vectors, cosine similarity serves as a way of determining the similarity of the two vectors
+  Cosine similarity is found by taking the dot product of the two vectors and dividing by the product of their magnitudes
+
+- **Embedding**
+  
 
 ---
 ## Content
@@ -189,7 +196,10 @@ words
 
 - **Error Handling and Logging:**  
   Improve error management for API calls and provide detailed logging for debugging.
-
+  
+- **Better Method for Gemini**
+  Find an alternative method for using Gemini that does not require premium key or manual intervention
+  
 ---
 
 ## Contributing
@@ -200,5 +210,9 @@ Contributions are welcome! Please follow these guidelines:
 - Create a new branch for your feature or bug fix.
 - Submit a pull request with a detailed description of your changes.
 - Follow the existing code style and include appropriate tests.
+
+- William handled the coding, with some help from John
+- John organized the presentation, with some help from William
+- We both worked on the readme
 
 ---
