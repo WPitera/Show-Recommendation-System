@@ -51,7 +51,7 @@ This project is an end-to-end Anime Recommendation System that leverages data fr
   Cosine similarity is found by taking the dot product of the two vectors and dividing by the product of their magnitudes
 
 - **Embedding**
-  
+ Machine Learning and AI models can be integrated into an application or a device, which enables the software to complete jobs such as image recognition, natural language processing, and decision-making while bypassing the need for an external server for processing
 
 ---
 ## Content
