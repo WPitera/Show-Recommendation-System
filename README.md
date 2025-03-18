@@ -61,7 +61,7 @@ This project is an end-to-end Anime Recommendation System that leverages data fr
 ## Content
 
 - **Summary**
-  The summary, or synopsis, includes the information from Wikipedia and other official material about the show and movie
+  -The summary, or synopsis, includes the information from Wikipedia and other official material about the show and movie
 
 - **Genre**
   -Genre includes any tropes or categories that the anime show falls into: fantasy, action thriller, historical, etc.
@@ -76,19 +76,23 @@ This project is an end-to-end Anime Recommendation System that leverages data fr
 - **Mean**
     - The project takes the mean score of all anime ratings on the API (18 million users' worth of ratings from over 200 countries for 21,500 anime appearances)
     - The project will outpiut anime with mean ratings similar to the mean ratings of those that the user input
+    - The higher the mean rating, the more likely the project is to recommend it to you
 
 - **Popularity**
-    -The project returns anime whose user's scores were closest to the rating of the shows that they have rated
-    -For example, if a user seems to enjoy controversial anime which only have received ratings of 0 or 10, the project will return similarly controversial anime
+    - The project returns anime whose user's scores were closest to the rating of the shows that they have rated
+    - For example, if a user seems to enjoy controversial anime which only have received ratings of 0 or 10, the project will return similarly controversial anime
 
 - **Ranking**
     - Ranking takes the selected anime's mean score and compares it to that of every other anime (of the 21,500 anime) and produces a number based on the comparison
 
 - **Media Type**
-    -What type of release is it?  It could be a movie, a planetarium special, a theatrical release, a show, or even a side story put into a play
+    - What type of release is it?  It could be a movie, a planetarium special, a theatrical release, a show, or even a side story put into a play
+    - If the user seems to prefer movies, the project will output movies, etc.
 
 - **Status**
-    -A 3-way variable of whether it's currently airing, finished, or on hiatus
+    - A 3-way variable of whether it's currently airing, finished, or on hiatus
+    - The project can now determine whether the user prefers to binge watch shows all at once enjoys following the most recent ones and waiting for new episodes, and can recommend shows accordingly
+  
 
 
 ---
