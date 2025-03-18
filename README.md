@@ -17,6 +17,7 @@ Made with DALL-E
 - [Data and APIs](#data-and-apis)
 - [Implementation Details](#implementation-details)
 - [Future Work](#future-work)
+- [Delegations](#Delegations)
 - [Contributing](#contributing)
 ---
 
@@ -204,6 +205,11 @@ words
   Find an alternative method for using Gemini that does not require premium key or manual intervention
   
 ---
+## Delegations
+
+- William handled the coding, with some help from John
+- John organized the presentation, with some help from William
+- We both worked on the readme
 
 ## Contributing
 
@@ -214,8 +220,6 @@ Contributions are welcome! Please follow these guidelines:
 - Submit a pull request with a detailed description of your changes.
 - Follow the existing code style and include appropriate tests.
 
-- William handled the coding, with some help from John
-- John organized the presentation, with some help from William
-- We both worked on the readme
+
 
 ---
