@@ -204,7 +204,7 @@ words
 - **Gemini:**
   Find an alternative method for using Gemini that does not require premium key or manual intervention
 
-- **Speed**
+- **Speed:**
   Find a way for the program to automatically update the list of current anime or speed up the process or retrieval or preprocessing of the data from the three hours that it currently takes, since there are new anime coming out of the data every day 
   
 ---
