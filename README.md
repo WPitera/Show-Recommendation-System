@@ -60,8 +60,36 @@ This project is an end-to-end Anime Recommendation System that leverages data fr
 ---
 ## Content
 
+- **Summary**
+  The summary, or synopsis, includes the information from Wikipedia and other official material about the show and movie
 
-words
+- **Genre**
+  -Genre includes any tropes or categories that the anime show falls into: fantasy, action thriller, historical, etc.
+  -Anime also has its own unique genres, such as Isekai, when the protagonist is transported to another world
+
+- **Title**
+  -Normally, the title would be the Japanese title of the show put in a phonetic English spelling with shorthand
+  -Anything that would not be the normal English keyboard would return the closest value (i.e. infinity would return 8, a letter with an accent mark on it would return the plain letter)
+  -The alternative title would return the translated English version (as opposed to the phonetic English version, which is just Japanese words spelt out in English) with some shorthand titles
+
+
+- **Mean**
+    - The project takes the mean score of all anime ratings on the API (18 million users' worth of ratings from over 200 countries for 21,500 anime appearances)
+    - The project will outpiut anime with mean ratings similar to the mean ratings of those that the user input
+
+- **Popularity**
+    -The project returns anime whose user's scores were closest to the rating of the shows that they have rated
+    -For example, if a user seems to enjoy controversial anime which only have received ratings of 0 or 10, the project will return similarly controversial anime
+
+- **Ranking**
+    - Ranking takes the selected anime's mean score and compares it to that of every other anime (of the 21,500 anime) and produces a number based on the comparison
+
+- **Media Type**
+    -What type of release is it?  It could be a movie, a planetarium special, a theatrical release, a show, or even a side story put into a play
+
+- **Status**
+    -A 3-way variable of whether it's currently airing, finished, or on hiatus
+
 
 ---
 
